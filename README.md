@@ -1,6 +1,8 @@
 # RNN-Basic_Sin
 First using of RNN
 
+Good Ilustration for understanding the RNN method.
+
 The algorithem will use Simple RNN and LSTM.
 
 Using Sin Function and trying to forcast the results,
